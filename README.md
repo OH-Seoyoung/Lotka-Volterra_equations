@@ -5,8 +5,8 @@
 ----------
 - The Lotka-Volterra equations are a system of two first-order, nonlinear ODEs that describe the populations of predators and prey in a biological system. Over time, the populations of the predators and prey change according to the equations :  
   
-<sup>dx</sup>/<sub>dt</sub> = &alpha; x - &beta; xy  
-<sup>dy</sup>/<sub>dt</sub> = &gamma; xy - &gamma; y  
+<sup>dx</sup>/<sub>dt</sub><font size="2em"></font = &alpha; x - &beta; xy  
+<sup>dy</sup>/<sub>dt</sub> = &delta; xy - &gamma; y  
 
 
 ## 1. Classical prey-predator equations
