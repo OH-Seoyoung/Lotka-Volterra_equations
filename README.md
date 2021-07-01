@@ -4,7 +4,7 @@
 
 ## 1. Classical prey-predator equations
 -
-| [Code1](), [Code2]() |
+| [Code1](https://github.com/OH-Seoyoung/Lotka-Volterra_equations/blob/master/Classical_predator-prey/Classical_prey_predator_equations.m), [Code2]() |
 
 ## References
 ```
