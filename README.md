@@ -9,10 +9,9 @@
 <sup>dy</sup>/<sub>dt</sub> = &delta; xy - &gamma; y  
 
 
-## 1. Classical prey-predator equations
+## 1. Classical prey-predator equations | [Code](https://github.com/OH-Seoyoung/Lotka-Volterra_equations/tree/master/Classical_predator-prey)
 - Population over time, Phase plot
 - Comparison of the solutions for all of the initial conditions
-| [Code](https://github.com/OH-Seoyoung/Lotka-Volterra_equations/tree/master/Classical_predator-prey) |
 
 ## References
 ```
