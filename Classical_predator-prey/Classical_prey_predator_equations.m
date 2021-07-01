@@ -1,5 +1,6 @@
 % This code follows the 'Solve Predator-Prey Equations' documentation of mathworks
-% classical prey-predator model
+% Classical prey-predator model
+
 % yp(1) = (1 - alpha*y(2))*y(1)
 % yp(2) = (-1 + beta*y(1))*y(2)
 

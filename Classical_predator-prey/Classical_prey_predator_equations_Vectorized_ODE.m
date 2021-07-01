@@ -1,3 +1,4 @@
+% This code follows the 'Solve System of ODEs with Multiple Initial Conditions' documentation of mathworks
 % Compute Multiple Initial Conditions with Vectorized ODE Function
 
 clear; clc; close all;
