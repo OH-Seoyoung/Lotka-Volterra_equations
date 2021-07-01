@@ -13,6 +13,8 @@
 - Population over time, Phase plot
 - Comparison of the solutions for all of the initial conditions
 
+## 2. Stochastic prey-predator equations
+
 ## References
 ```
 [1] Solve Predator-Prey Equations, https://kr.mathworks.com/help/matlab/math/numerical-integration-of-differential-equations.html?lang=en
