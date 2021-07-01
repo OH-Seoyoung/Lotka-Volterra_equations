@@ -10,8 +10,9 @@
 
 
 ## 1. Classical prey-predator equations
--
-| [Code1](https://github.com/OH-Seoyoung/Lotka-Volterra_equations/blob/master/Classical_predator-prey/Classical_prey_predator_equations.m), [Code2]() |
+- Population over time, Phase plot
+- Comparison of the solutions for all of the initial conditions
+| [Code](https://github.com/OH-Seoyoung/Lotka-Volterra_equations/tree/master/Classical_predator-prey) |
 
 ## References
 ```
