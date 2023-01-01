@@ -1,6 +1,6 @@
 # Lotka-Volterra equations
 - Numerical solutions of Lotka–Volterra predator–prey model
-- Jul. 1, 2021 ~ Present
+- Jul. 1, 2021 ~ Dec. 1, 2021
 
 ----------
 - The Lotka-Volterra equations are a system of two first-order, nonlinear ODEs that describe the populations of predators and prey in a biological system. Over time, the populations of the predators and prey change according to the equations :  
@@ -12,8 +12,6 @@
 ## 1. Classical prey-predator equations | [Code](https://github.com/OH-Seoyoung/Lotka-Volterra_equations/tree/master/Classical_predator-prey)
 - Population over time, Phase plot
 - Comparison of the solutions for all of the initial conditions
-
-## 2. Stochastic prey-predator equations
 
 ## References
 ```
